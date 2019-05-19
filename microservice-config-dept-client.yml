@@ -33,7 +33,6 @@ eureka:
   instance:
     instance-id: dept-8001.com
     prefer-ip-address: true
- 
 info:
   app.name: microservice-config-dept01
   company.name: www.learn.com
@@ -72,7 +71,6 @@ eureka:
   instance:
     instance-id: dept-8001.com
     prefer-ip-address: true
- 
 info:
   app.name: microservice-config-dept02
   company.name: www.learn.com
