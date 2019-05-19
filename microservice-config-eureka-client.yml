@@ -22,7 +22,6 @@ spring:
   profiles: test   #测试环境
   application: 
     name: microservice-config-eureka-test
-#  请保存为UTF-8格式
  server:
   port: 7001
 eureka:
