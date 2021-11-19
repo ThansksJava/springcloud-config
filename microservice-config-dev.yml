@@ -1,5 +1,2 @@
-spring:
-  application:
-    name: config-client
 config: 
  info: I'm microservice-config-dev yml version 777
